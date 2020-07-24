@@ -1,0 +1,16 @@
+{
+    "host": "cosmojinnie.dothome.co.kr",
+    "username": "cosmojinnie",
+    "password": "cosmo1029!",
+    "remotePath": "html/momentum",
+    "protocol": "ftp",
+    "port": 21,
+    "fileNameEncoding": "utf8",
+    "autoUpload": true,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ]
+}
